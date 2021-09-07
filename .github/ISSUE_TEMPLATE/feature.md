@@ -1,3 +1,8 @@
+---
+name: Requisição de Feature
+about: Tenho um ideia massa para o projeto
+
+---
 ### Mudanças propostas
 
 Quano o usuário entrar na tela de login o campo de login deve ser selecionado automaticamente, quando o usuário terminar ele pode apertar `Enter` para ir para o campo de senha e logo após digitar a senha ele pode apertar `Enter` novamente e fazer login.

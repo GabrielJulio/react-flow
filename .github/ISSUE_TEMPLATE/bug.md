@@ -1,3 +1,8 @@
+---
+name: Reporte um Bug
+about: Achei um problema do projeto
+
+---
 ### Comportamento Esperado
 
 Conte para nós o que deveria acontecer.
