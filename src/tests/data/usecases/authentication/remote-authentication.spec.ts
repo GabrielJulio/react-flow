@@ -1,6 +1,6 @@
-import { mockAuthentication } from "@/domain/tests/mock-authentication"
+import { mockAuthentication } from "@/tests/domain/mock-authentication"
 import { RemoteAuthentication } from "@/data/usecases/authentication/remote-authentication"
-import { HttpPostClientSpy } from "@/data/tests/mock-http-client"
+import { HttpPostClientSpy } from "@/tests/data/mock-http-client"
 import { InvalidCredentialsError } from "@/domain/errors/invalid-credentials-error"
 import { UnexpectedError } from "@/domain/errors/unexpected-error"
 import { HttpStatusCode } from "@/data/protocols/http/http-response"
