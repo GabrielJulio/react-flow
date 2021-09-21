@@ -6,6 +6,7 @@ import { UnexpectedError } from "@/domain/errors/unexpected-error"
 import { HttpStatusCode } from "@/data/protocols/http/http-response"
 import faker from "faker"
 
+
 type SutTypes = {
   sut: RemoteAuthentication
   httpPostClientSpy: HttpPostClientSpy
