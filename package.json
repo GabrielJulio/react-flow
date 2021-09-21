@@ -7,6 +7,7 @@
     "test": "jest --passWithNoTests",
     "test:watch": "npm test -- --watch",
     "test:staged": "npm test -- --findRelatedTests",
+    "test:clear": "npm test -- --clearCache",
     "test:ci": "npm test -- --coverage"
   },
   "keywords": [],
